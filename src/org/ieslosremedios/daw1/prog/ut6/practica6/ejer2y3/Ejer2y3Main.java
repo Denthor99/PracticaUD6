@@ -20,7 +20,7 @@ public class Ejer2y3Main {
          * */
 
         // Lo primero que haremoos es declarar "los discos". Como en el ejemplo ofrecido en la práctica contamoos con tres discos, realizaremos el mismo ejemplo. Se sobreentiende que los discos se han introducido ordenados.
-        int numDiscos = 3; // número de discos actuales
+        int numDiscos = 2; // número de discos actuales
 
         // Invocación al método que realizará lo que se nos pide en el enunciado
         torreHanoi(numDiscos, 'A', 'C', 'B');
